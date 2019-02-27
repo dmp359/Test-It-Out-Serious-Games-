@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{668AF924-6A24-146F-839C-B35EFDCE64A0}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/ProgressReport.cs">
+    <Files>
+      <File FileName="Assets/Scripts/LessonPlanning.cs" Line="22" Column="1" />
+      <File FileName="Assets/Scripts/Student.cs" Line="70" Column="34" />
+      <File FileName="Assets/Scripts/StudentController.cs" Line="69" Column="31" />
+      <File FileName="Assets/Scripts/StudentFactory.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/DeltaTextEffect.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/ProgressBar.cs" Line="96" Column="29" />
+      <File FileName="Assets/Scripts/TermManager.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/StatLibrary.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/MenuManager.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/ProgressReport.cs" Line="133" Column="36" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Standardized_220Testing PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
